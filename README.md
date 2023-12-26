@@ -6,10 +6,11 @@ In this project, I have created a Todo app in react js
 
 
  Features of the app
-     Create a Task
-     Edit a Task
-     Read a Task
-     Delete a Task
-     Create a SubTask
-     Edit a SubTask as completed
-     Edit a Task as completed
+         
+    Create a Task
+    Edit a Task
+    Read a Task
+    Delete a Task
+    Create a SubTask
+    Edit a SubTask as completed
+    Edit a Task as completed
